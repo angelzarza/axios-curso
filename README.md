@@ -1,5 +1,5 @@
-# Axios Crash Course
+# Curso intensivo de Axios
 
-> These are the files for the YouTube Axios crash course.
+> Estos son los archivos del curso intensivo de YouTube Axios. 
 
-"start.js" is just the event listeners and empty functions. "main.js" is the completed code
+"start.js" son solo los detectores de eventos y las funciones vacías. "main.js" es el código completo 
